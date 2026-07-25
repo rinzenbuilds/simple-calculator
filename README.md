@@ -8,9 +8,6 @@ A beginner-friendly calculator built in Python. It performs basic arithmetic ope
 - Multiplication
 - Division
 
-## Preview
-
-![Calculator Preview](preview.png)
 
 ## Technologies Used
 - Python 3
